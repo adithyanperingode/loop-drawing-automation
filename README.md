@@ -26,7 +26,7 @@ Instead of manually drawing each loop diagram in AutoCAD, you:
 3. Open the AutoCAD template
 4. Type `DRAWLOOPS` in AutoCAD
 
-The script automatically generates one complete DWG file per loop — with all wiring, labels, ferrule numbers and title block filled in correctly.
+The script automatically generates one complete DWG file per loop with all wiring, labels, ferrule numbers and title block filled in correctly.
 
 ---
 
@@ -291,9 +291,10 @@ MIT License — see [LICENSE](LICENSE) for details.
 **Adithyan Peringode**  
 *Making Engineering Smarter using AI and Automation*
 
-Built to automate ISA 5.1 instrument loop drawing generation — reducing manual drawing time from hours to minutes.
+Built to automate ISA 5.1 instrument loop drawing generation reducing manual drawing time from hours to minutes.
 
 📧 [adithyanperingode95@gmail.com](mailto:adithyanperingode95@gmail.com)  
 💼 [linkedin.com/in/adithyanperingode](https://in.linkedin.com/in/adithyanperingode)
 
 > Feel free to reach out if you need help setting this up or want to contribute!
+> lease don’t forget to give a ⭐ if you liked my work.
