@@ -1,0 +1,15 @@
+# AutoCAD output files
+OUTPUT/
+*.bak
+*.dwl
+*.dwl2
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# AutoCAD temp files
+*.sv$
+
+# CSV with real data (keep sample only)
+loop_data.csv
