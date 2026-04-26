@@ -297,4 +297,4 @@ Built to automate ISA 5.1 instrument loop drawing generation reducing manual dra
 💼 [linkedin.com/in/adithyanperingode](https://in.linkedin.com/in/adithyanperingode)
 
 > Feel free to reach out if you need help setting this up or want to contribute!
-> lease don’t forget to give a ⭐ if you liked my work.
+> Please don’t forget to give a ⭐ if you liked my work.
